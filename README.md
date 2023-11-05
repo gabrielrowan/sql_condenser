@@ -4,7 +4,7 @@
 
 SQL Condenser aims to collate the sql contained in multiple `.sql` files and condense these into 1 separate `.sql` file. 
 
-As part of a work deployment process, we currently execute the SQL taken from multiple files. This would be quicker and easier if a program could bring together all the SQL that needs to be executed in 1 place.
+As part of a work deployment process, we currently execute the SQL in multiple separate files. This would be quicker and easier if a program could bring together all the SQL that needs to be executed in 1 place.
 
 ## Version 1 
 
