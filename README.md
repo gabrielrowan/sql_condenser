@@ -52,4 +52,5 @@ print("Output.txt has now been created")
 1) The `with open(file, 'r') as file:` is nested inside with `os.scandir('C:/Users/gabriel/OneDrive/Programming/SQL Exercise') as files:`
    I think two many layers of nesting can be messy - Ideally I would find a way to unnest this logic
 2) Hardcode file paths - At the moment, the file paths to read to and write from are hard coded. It would be nice to specify the path to read from in a command line argument
-3) There are 2 loops - Looping over the read files and then looping over the array to write to the output file. Is there a way to achieve this same goal with less looping? 
+3) There are 2 loops - Looping over the read files and then looping over the array to write to the output file. Is there a way to achieve this same goal with less looping?
+4) The success message is printed regardless of whether the code is successful or not. It would be good to add more error handling and conditional messages based on outcome
