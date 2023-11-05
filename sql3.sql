@@ -1,0 +1,1 @@
+update table_name set column1 = '1'

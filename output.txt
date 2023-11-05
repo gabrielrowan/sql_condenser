@@ -1,0 +1,4 @@
+select * from table_name
+select column1, column2 from table_name
+update table_name set column1 = '1'
+select column4 from table_name
