@@ -28,6 +28,7 @@ with open('C:/Users/gabriel/OneDrive/Programming/SQL Exercise/output.txt', 'w') 
 print("Output.txt has now been created")
 
 ```
+![SQL Condenser Version 1](https://github.com/gabrielrowan/sql_condenser/assets/86267314/d7ed2bfd-14f5-4d0a-9d01-a1bac8f8c007)
 
 ### What does this code do? 
 
